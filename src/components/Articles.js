@@ -85,9 +85,6 @@ export default function Articles() {
                             </div>
                         </div>
                     </div>
-                    {/* <div className='flex justify-end py-4'>
-                        <button className='p-2 bg-gray-700 text-white rounded-lg hover:bg-gray-900'>Load More</button>
-                    </div> */}
                     <ul className='flex flex-row justify-center md:justify-end gap-2 md:gap-4 my-8 items-center'>
                         <li className="bg-teal-400  text-white dark:text-white hover:bg-teal-500 hover:text-white h-8 w-8 rounded-full">
                             <span className="inline-flex justify-center p-1 h-8 w-8 rounded-full">1</span>
@@ -104,8 +101,8 @@ export default function Articles() {
                         <li className="hover:bg-teal-500 hover:text-white h-8 w-8 rounded-full">
                             <span className="inline-flex justify-center p-1 h-8 w-8 rounded-full">5</span>
                         </li>
-                        <li class="hover:bg-teal-500 hover:text-white h-8 w-8 rounded-full">
-                            <span class="inline-flex justify-center items-center p-1 h-8 w-8 rounded-full">
+                        <li className="hover:bg-teal-500 hover:text-white h-8 w-8 rounded-full">
+                            <span className="inline-flex justify-center items-center p-1 h-8 w-8 rounded-full">
                                 <HiChevronDoubleRight className="w-7 h-7"/>
                             </span>
                         </li>

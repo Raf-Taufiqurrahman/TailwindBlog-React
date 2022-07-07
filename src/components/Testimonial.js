@@ -20,7 +20,7 @@ export default function Testimonial() {
                         </p>
                     </div>
                     <div className='grid grid-cols-1 md:grid-cols-3 gap-4 py-8 lg:mx-24'>
-                        <div className='bg-white shadow-sm border border-red-400 border-dashed p-4 rounded-sm relative'>
+                        <div className='bg-white shadow-sm border border-red-400 border-dashed p-4 rounded-sm'>
                             <div className='flex justify-between gap-8 my-3 items-center'>
                                 <p className='text-gray-500 font-quicksand text-sm text-justify'>"The most recommended place to learn PHP and Laravel. Decode was able to give an explanation without rushing. Very suitable for beginners"</p>
                                 <img src={arby} alt='user' className='rounded-full h-10 w-10' />

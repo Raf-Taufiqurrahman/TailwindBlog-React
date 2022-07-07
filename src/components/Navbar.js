@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { HiFire, HiHome, HiDocumentDuplicate, HiChatAlt2, HiColorSwatch} from "react-icons/hi";
+import { HiHome, HiDocumentDuplicate, HiChatAlt2, HiColorSwatch} from "react-icons/hi";
 import logo from '../assets/logo.png'
 export default function Navbar() {
     return (
